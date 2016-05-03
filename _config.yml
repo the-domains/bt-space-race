@@ -1,6 +1,6 @@
 name: BT Space Race
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.25146
 typography_spectrum: 0.00485
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#9ad2ad'
     - '#5c836e'
     - '#e785f7'
-  brandStrength: 1
-  lightness: 0.6741193064954132
-  saturation: 0.5424012150615454
+  brandStrength: 0.25
+  lightness: 0.5625
+  saturation: 0.625
   rhythmicContrast: 0.4576138292904943
 purpose: []
